@@ -40,3 +40,93 @@ header {
     text-decoration: none;
     text-decoration: underline;
 }
+
+.phone_vid_area {
+    margin-top: 1.5rem;
+}
+
+.above_footer {
+    display: block;
+    margin-top: 1.25rem;
+}
+
+.above_footer_heading {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.above_footer_heading h2 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 300;
+    font-size: 2.625rem;
+    color: white;
+}
+
+.above_footer_text {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 1.5rem;
+    margin-bottom: 1rem;
+}
+
+.above_footer_text p {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 1.3125rem;
+    color: gray;
+}
+
+.above_footer_image {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.above_footer_icon {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 1.5rem;
+}
+
+.above_footer_bottom_heading {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 1.75rem;
+}
+
+.above_footer_bottom_heading h2 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: normal;
+    font-size: 3.125rem;
+    color: white;
+}
+
+.above_footer_sub_heading {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 1.25rem;
+}
+
+.above_footer_sub_heading a {
+    color: aquamarine;
+    font-size: 1rem;
+    text-decoration: none;
+    text-decoration: underline;
+}
+
+footer {
+    display: block;
+    margin-top: 1.25rem;
+}
+
+footer p {
+    color: gray;
+    text-align: right;
+    margin-right: 1rem;
+    margin-bottom: 1rem;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
